@@ -1,2 +1,0 @@
-# taryfikatorlspd
-taryfikator lspd sunsetrp
